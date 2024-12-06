@@ -56,7 +56,7 @@ After going through the tutorial to set up your Sandbox, go to Sandbox settings 
     brew install ngrok/ngrok/ngrok
     ```
 
-### 4. Setup your variables in the whatsapp-bot-translator.py
+### 5. Setup your variables in the whatsapp-bot-translator.py
 
 - twilio_account_sid and twilio_auth_token that you can find on your Twilio account in the Verifications tab
 
