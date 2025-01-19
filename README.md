@@ -1,6 +1,13 @@
 # whatsapp-audio-bot
 A WhatsApp bot to transcribe and translate audio messages
 
+## Introduction
+
+Being a polyglot growing up speaking 3 languages, I have always wanted to learn one or two new languages, so in 2024 I decided to finally go for it.
+After visiting Brazil, I decided I had to learn portuguese. I started my learning journey in march, and 6 months later I could understand written portuguese quite well.
+However, I struggled to understand spoken portuguese. And if you've ever had brazilian friends, you know they love sending audios on Whatsapp !
+So to help me understand spoken portuguese better, and as any geek would do, I decided to build a Whatsapp Bot that transcribes and translates Whatsapp audio messages !
+
 ## Prequisites 
 
 ### 1. Setup a Python Virtual Environment
